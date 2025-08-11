@@ -21,10 +21,9 @@ Building reproducible AI applications and shipping MVPs for startups worldwide. 
 
 ## Core stack and expertise
 
-**Backend**: Ruby on Rails (15+ years), AWS architecture, serverless deployments
-**Frontend**: React, Flutter, Swift, Kotlin
-**AI/ML**: Go orchestration, Python integrations, Rust performance kernels
-**Infrastructure**: Cost-optimized AWS (EC2, S3+CDN, RDS), scaling strategies
+- **Backend**: Ruby on Rails (15+ years), AWS architecture, serverless deployments
+- **AI/ML**: Go orchestration, Python integrations, Rust performance kernels
+- **Infrastructure**: Cost-optimized AWS (EC2, S3+CDN, RDS), scaling strategies
 
 ## Technical philosophy
 
